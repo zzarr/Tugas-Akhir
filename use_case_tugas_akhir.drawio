@@ -120,6 +120,12 @@
         <mxCell id="e6WwedqKmUX0gaVpshAz-19" value="Use Case" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="-100" width="650" height="990" as="geometry" />
         </mxCell>
+        <mxCell id="e6WwedqKmUX0gaVpshAz-20" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="880" as="sourcePoint" />
+            <mxPoint x="880" y="-120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
