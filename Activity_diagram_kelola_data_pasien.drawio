@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rR2cHtrvbhDjR1xuKyu3-1" value="Activity diagram tambah kuisioner" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
+        <mxCell id="rR2cHtrvbhDjR1xuKyu3-1" value="Activity diagram kelola data pasien" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
           <mxGeometry x="220.00000000000045" y="-290" width="710" height="680" as="geometry" />
         </mxCell>
         <mxCell id="rR2cHtrvbhDjR1xuKyu3-2" value="Operator" style="swimlane;startSize=20;html=1;" vertex="1" parent="rR2cHtrvbhDjR1xuKyu3-1">
