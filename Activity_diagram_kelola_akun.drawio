@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="Page-1" id="gZU_hcXTKBrcWHxRhqKH">
-    <mxGraphModel dx="1222" dy="1686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="880" dy="1534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kggum_o1opRNr4FQGBPl-2" value="Activity diagram tambah kuisioner" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
+        <mxCell id="kggum_o1opRNr4FQGBPl-2" value="Activity diagram kelola akun" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
           <mxGeometry x="220.00000000000045" y="-290" width="710" height="680" as="geometry" />
         </mxCell>
         <mxCell id="kggum_o1opRNr4FQGBPl-3" value="Operator" style="swimlane;startSize=20;html=1;" vertex="1" parent="kggum_o1opRNr4FQGBPl-2">
