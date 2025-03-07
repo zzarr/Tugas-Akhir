@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="Page-1" id="gZU_hcXTKBrcWHxRhqKH">
-    <mxGraphModel dx="880" dy="1534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1222" dy="1686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,7 +21,7 @@
         <mxCell id="kggum_o1opRNr4FQGBPl-6" value="Login" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="kggum_o1opRNr4FQGBPl-3">
           <mxGeometry x="174.99999999999955" y="100" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kggum_o1opRNr4FQGBPl-7" value="Mengakses menu kuisioner" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="kggum_o1opRNr4FQGBPl-3">
+        <mxCell id="kggum_o1opRNr4FQGBPl-7" value="Mengakses menu akun" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="kggum_o1opRNr4FQGBPl-3">
           <mxGeometry x="174.99999999999955" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kggum_o1opRNr4FQGBPl-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="kggum_o1opRNr4FQGBPl-3" source="kggum_o1opRNr4FQGBPl-10" target="kggum_o1opRNr4FQGBPl-12">
@@ -38,16 +38,16 @@
             <mxPoint x="234.99999999999955" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kggum_o1opRNr4FQGBPl-12" value="Tambah data Kuisioner" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="kggum_o1opRNr4FQGBPl-3">
+        <mxCell id="kggum_o1opRNr4FQGBPl-12" value="Tambah data akun" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="kggum_o1opRNr4FQGBPl-3">
           <mxGeometry x="39.999999999999545" y="390" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kggum_o1opRNr4FQGBPl-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="kggum_o1opRNr4FQGBPl-3" source="kggum_o1opRNr4FQGBPl-14" target="kggum_o1opRNr4FQGBPl-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kggum_o1opRNr4FQGBPl-14" value="Edit data Kuisioner" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="kggum_o1opRNr4FQGBPl-3">
+        <mxCell id="kggum_o1opRNr4FQGBPl-14" value="Edit data Akun" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="kggum_o1opRNr4FQGBPl-3">
           <mxGeometry x="174.99999999999955" y="390" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kggum_o1opRNr4FQGBPl-15" value="Hapus data kuisioner" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="kggum_o1opRNr4FQGBPl-3">
+        <mxCell id="kggum_o1opRNr4FQGBPl-15" value="Hapus data Akun" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="kggum_o1opRNr4FQGBPl-3">
           <mxGeometry x="319.99999999999955" y="390" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kggum_o1opRNr4FQGBPl-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.49;exitY=0.547;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="kggum_o1opRNr4FQGBPl-3" source="kggum_o1opRNr4FQGBPl-10" target="kggum_o1opRNr4FQGBPl-14">
