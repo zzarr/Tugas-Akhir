@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="EOZPL2xRb22a452zDBul-1" value="Activity diagram isi kuisioner Pretest" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
-          <mxGeometry x="225.00000000000045" y="170" width="500" height="550" as="geometry" />
+          <mxGeometry x="225.00000000000045" y="170" width="500" height="690" as="geometry" />
         </mxCell>
         <mxCell id="EOZPL2xRb22a452zDBul-2" value="Tim peneliti" style="swimlane;startSize=20;html=1;" vertex="1" parent="EOZPL2xRb22a452zDBul-1">
-          <mxGeometry y="20" width="250" height="530" as="geometry" />
+          <mxGeometry y="20" width="250" height="670" as="geometry" />
         </mxCell>
         <mxCell id="EOZPL2xRb22a452zDBul-10" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="EOZPL2xRb22a452zDBul-2">
           <mxGeometry x="109.99999999999955" y="30" width="30" height="30" as="geometry" />
@@ -30,16 +30,11 @@
         <mxCell id="EOZPL2xRb22a452zDBul-22" value="pilik menu pretest" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="EOZPL2xRb22a452zDBul-2">
           <mxGeometry x="64.99999999999955" y="320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EOZPL2xRb22a452zDBul-27" value="Activity" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="EOZPL2xRb22a452zDBul-2">
+        <mxCell id="EOZPL2xRb22a452zDBul-27" value="Pilih pasien" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="EOZPL2xRb22a452zDBul-2">
           <mxGeometry x="64.99999999999955" y="410" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EOZPL2xRb22a452zDBul-28" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="EOZPL2xRb22a452zDBul-27" parent="EOZPL2xRb22a452zDBul-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="124.99999999999955" y="510" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="EOZPL2xRb22a452zDBul-3" value="sistem" style="swimlane;startSize=20;html=1;" vertex="1" parent="EOZPL2xRb22a452zDBul-1">
-          <mxGeometry x="250" y="20" width="250" height="530" as="geometry" />
+          <mxGeometry x="250" y="20" width="250" height="670" as="geometry" />
         </mxCell>
         <mxCell id="EOZPL2xRb22a452zDBul-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="EOZPL2xRb22a452zDBul-3" source="EOZPL2xRb22a452zDBul-15">
           <mxGeometry relative="1" as="geometry">
@@ -61,6 +56,14 @@
         <mxCell id="EOZPL2xRb22a452zDBul-26" value="menampilkan data pasien" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="EOZPL2xRb22a452zDBul-3">
           <mxGeometry x="69.99999999999955" y="320" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="EOZPL2xRb22a452zDBul-31" value="simpan data pretest" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="EOZPL2xRb22a452zDBul-3">
+          <mxGeometry x="69.99999999999955" y="490" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EOZPL2xRb22a452zDBul-32" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="EOZPL2xRb22a452zDBul-31" parent="EOZPL2xRb22a452zDBul-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="129.99999999999955" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EOZPL2xRb22a452zDBul-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="EOZPL2xRb22a452zDBul-1" source="EOZPL2xRb22a452zDBul-15" target="EOZPL2xRb22a452zDBul-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -77,6 +80,17 @@
         </mxCell>
         <mxCell id="EOZPL2xRb22a452zDBul-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="EOZPL2xRb22a452zDBul-1" source="EOZPL2xRb22a452zDBul-26" target="EOZPL2xRb22a452zDBul-27">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOZPL2xRb22a452zDBul-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EOZPL2xRb22a452zDBul-30" target="EOZPL2xRb22a452zDBul-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOZPL2xRb22a452zDBul-30" value="mulai mengisi pretest" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="290" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EOZPL2xRb22a452zDBul-28" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="EOZPL2xRb22a452zDBul-27" parent="1" target="EOZPL2xRb22a452zDBul-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="700" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
