@@ -269,7 +269,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_KXmcIACm5EOq67GAdHT-1" value="memiliki" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fillColor=default;fillStyle=solid;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="500" y="637" width="80" height="26" as="geometry" />
+          <mxGeometry x="468" y="637" width="80" height="26" as="geometry" />
         </mxCell>
         <mxCell id="_KXmcIACm5EOq67GAdHT-2" value="menjawab" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="464" y="380" width="80" height="26" as="geometry" />
