@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.2.0">
   <diagram name="Page-1" id="_0ErwDTtWnVxuPkX2eag">
-    <mxGraphModel dx="1585" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1090" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
             <mxPoint x="144" y="70" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FyT8MrMmyI5fMnRuhmEn-5" value="kil tombol tambah data kuisioner" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="FyT8MrMmyI5fMnRuhmEn-2">
+        <mxCell id="FyT8MrMmyI5fMnRuhmEn-5" value="klik tombol tambah data kuisioner" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="FyT8MrMmyI5fMnRuhmEn-2">
           <mxGeometry x="83.99999999999955" y="158" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FyT8MrMmyI5fMnRuhmEn-6" value="form dibuka" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="FyT8MrMmyI5fMnRuhmEn-2">
@@ -42,7 +42,7 @@
         <mxCell id="FyT8MrMmyI5fMnRuhmEn-11" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="FyT8MrMmyI5fMnRuhmEn-2">
           <mxGeometry x="128.99999999999955" y="648" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FyT8MrMmyI5fMnRuhmEn-12" value="tampilkan notifikasi" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="FyT8MrMmyI5fMnRuhmEn-2">
+        <mxCell id="FyT8MrMmyI5fMnRuhmEn-12" value="melihat notifikasi" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="FyT8MrMmyI5fMnRuhmEn-2">
           <mxGeometry x="84" y="573" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FyT8MrMmyI5fMnRuhmEn-13" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="FyT8MrMmyI5fMnRuhmEn-2" source="FyT8MrMmyI5fMnRuhmEn-12">
