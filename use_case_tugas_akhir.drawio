@@ -32,10 +32,10 @@
           <mxGeometry x="160" y="-128" width="490" height="820" as="geometry" />
         </mxCell>
         <mxCell id="hc-X3lTQJRQIBJaNhYMe-1" value="Export data Hasil Akhir" style="ellipse;whiteSpace=wrap;html=1;" parent="e6WwedqKmUX0gaVpshAz-19" vertex="1">
-          <mxGeometry x="40" y="680" width="120" height="80" as="geometry" />
+          <mxGeometry x="40" y="726" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hc-X3lTQJRQIBJaNhYMe-3" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="e6WwedqKmUX0gaVpshAz-19" vertex="1">
-          <mxGeometry x="190" y="690" width="60" height="30" as="geometry" />
+          <mxGeometry x="215" y="744" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hc-X3lTQJRQIBJaNhYMe-9" value="lihat data pasien" style="ellipse;whiteSpace=wrap;html=1;" parent="e6WwedqKmUX0gaVpshAz-19" vertex="1">
           <mxGeometry x="220" y="174" width="120" height="80" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_U5GMrZwOCNGPaZ26GaN-15" value="Lihat Hasil Pretest" style="ellipse;whiteSpace=wrap;html=1;" parent="e6WwedqKmUX0gaVpshAz-19" vertex="1">
-          <mxGeometry x="361" y="416" width="120" height="80" as="geometry" />
+          <mxGeometry x="361" y="398" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_U5GMrZwOCNGPaZ26GaN-19" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="e6WwedqKmUX0gaVpshAz-19" vertex="1">
           <mxGeometry x="355" y="376" width="60" height="30" as="geometry" />
