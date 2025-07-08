@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.2.0">
   <diagram name="Page-1" id="7neZnk30PoL_zhL5MMx5">
-    <mxGraphModel dx="872" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="727" dy="366" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="huYGQK-Ksw5gvSPvXAdh-1" value="Activity edit data kuisioner" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
+        <mxCell id="huYGQK-Ksw5gvSPvXAdh-1" value="Activity edit data user" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="550" width="610" height="770" as="geometry" />
         </mxCell>
         <mxCell id="huYGQK-Ksw5gvSPvXAdh-2" value="Operator" style="swimlane;startSize=20;html=1;" vertex="1" parent="huYGQK-Ksw5gvSPvXAdh-1">
@@ -19,7 +19,7 @@
             <mxPoint x="144" y="70" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="huYGQK-Ksw5gvSPvXAdh-5" value="klik tombol edit data kuisioner" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="huYGQK-Ksw5gvSPvXAdh-2">
+        <mxCell id="huYGQK-Ksw5gvSPvXAdh-5" value="klik tombol edit data user" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="huYGQK-Ksw5gvSPvXAdh-2">
           <mxGeometry x="83.99999999999955" y="222" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="huYGQK-Ksw5gvSPvXAdh-6" value="form dibuka" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="huYGQK-Ksw5gvSPvXAdh-2">
@@ -53,13 +53,13 @@
         <mxCell id="huYGQK-Ksw5gvSPvXAdh-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="huYGQK-Ksw5gvSPvXAdh-2" source="huYGQK-Ksw5gvSPvXAdh-15" target="huYGQK-Ksw5gvSPvXAdh-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="huYGQK-Ksw5gvSPvXAdh-15" value="masuk halaman kusioner" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="huYGQK-Ksw5gvSPvXAdh-2">
+        <mxCell id="huYGQK-Ksw5gvSPvXAdh-15" value="masuk halaman user" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="huYGQK-Ksw5gvSPvXAdh-2">
           <mxGeometry x="84" y="70" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="huYGQK-Ksw5gvSPvXAdh-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="huYGQK-Ksw5gvSPvXAdh-2" source="huYGQK-Ksw5gvSPvXAdh-36" target="huYGQK-Ksw5gvSPvXAdh-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="huYGQK-Ksw5gvSPvXAdh-36" value="pilih kuisioner" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="huYGQK-Ksw5gvSPvXAdh-2">
+        <mxCell id="huYGQK-Ksw5gvSPvXAdh-36" value="pilih user" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="huYGQK-Ksw5gvSPvXAdh-2">
           <mxGeometry x="84" y="150" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="huYGQK-Ksw5gvSPvXAdh-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF0000;" edge="1" parent="huYGQK-Ksw5gvSPvXAdh-1" source="huYGQK-Ksw5gvSPvXAdh-5" target="huYGQK-Ksw5gvSPvXAdh-19">
@@ -73,7 +73,7 @@
         <mxCell id="huYGQK-Ksw5gvSPvXAdh-18" value="SIstem" style="swimlane;startSize=20;html=1;" vertex="1" parent="huYGQK-Ksw5gvSPvXAdh-1">
           <mxGeometry x="280" y="20" width="330" height="750" as="geometry" />
         </mxCell>
-        <mxCell id="huYGQK-Ksw5gvSPvXAdh-19" value="kirim form tambah data&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="huYGQK-Ksw5gvSPvXAdh-18">
+        <mxCell id="huYGQK-Ksw5gvSPvXAdh-19" value="kirim form edit data&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="huYGQK-Ksw5gvSPvXAdh-18">
           <mxGeometry x="120" y="222" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="huYGQK-Ksw5gvSPvXAdh-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#ff0000, #ededed);" edge="1" parent="huYGQK-Ksw5gvSPvXAdh-18" source="huYGQK-Ksw5gvSPvXAdh-21" target="huYGQK-Ksw5gvSPvXAdh-26">
