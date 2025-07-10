@@ -433,10 +433,11 @@
             <mxPoint x="410" y="415.00000000000006" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZcJ_mIMhYMwHMSelU_jI-12" value="createPasien(data)" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="ZcJ_mIMhYMwHMSelU_jI-4">
-          <mxGeometry width="80" relative="1" as="geometry">
+        <mxCell id="ZcJ_mIMhYMwHMSelU_jI-12" value="createKuisioner(data)" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="ZcJ_mIMhYMwHMSelU_jI-4">
+          <mxGeometry x="0.004" width="80" relative="1" as="geometry">
             <mxPoint x="420" y="418" as="sourcePoint" />
             <mxPoint x="560.9999999999999" y="418" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZcJ_mIMhYMwHMSelU_jI-13" value="return validationError(errors)" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" edge="1" parent="1" source="ZcJ_mIMhYMwHMSelU_jI-5">
