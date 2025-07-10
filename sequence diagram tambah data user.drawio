@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.2.0" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.2.0" pages="6">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="872" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -380,6 +380,110 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="45HpUzFACEZ2C25AJ4C_" name="kuisioner">
+    <mxGraphModel dx="727" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZcJ_mIMhYMwHMSelU_jI-1" value="Halaman Kuisioner" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="365" y="308" width="100" height="372" as="geometry" />
+        </mxCell>
+        <mxCell id="ZcJ_mIMhYMwHMSelU_jI-2" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="ZcJ_mIMhYMwHMSelU_jI-1">
+          <mxGeometry x="45" y="62" width="10" height="258" as="geometry" />
+        </mxCell>
+        <mxCell id="ZcJ_mIMhYMwHMSelU_jI-3" value="KuisionerController" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="535" y="308" width="114" height="372" as="geometry" />
+        </mxCell>
+        <mxCell id="ZcJ_mIMhYMwHMSelU_jI-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="ZcJ_mIMhYMwHMSelU_jI-3">
+          <mxGeometry x="51" y="109" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ZcJ_mIMhYMwHMSelU_jI-5" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="ZcJ_mIMhYMwHMSelU_jI-3">
+          <mxGeometry x="57" y="129" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZcJ_mIMhYMwHMSelU_jI-6" value="validate(data)" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="ZcJ_mIMhYMwHMSelU_jI-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="61.999999999999886" y="119.9655172413793" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="97" y="120" />
+              <mxPoint x="97" y="130" />
+            </Array>
+            <mxPoint x="66.99999999999989" y="129.9655172413793" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZcJ_mIMhYMwHMSelU_jI-7" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="255" y="310" width="20" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="ZcJ_mIMhYMwHMSelU_jI-8" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="ZcJ_mIMhYMwHMSelU_jI-7">
+          <mxGeometry x="5" y="60" width="10" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ZcJ_mIMhYMwHMSelU_jI-9" value="Operator" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="280" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZcJ_mIMhYMwHMSelU_jI-10" value="pilihMenuTambah()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" parent="1" source="ZcJ_mIMhYMwHMSelU_jI-8" target="ZcJ_mIMhYMwHMSelU_jI-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="295" y="375" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZcJ_mIMhYMwHMSelU_jI-11" value="klikSimpan()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="270" y="415" as="sourcePoint" />
+            <mxPoint x="410" y="415.00000000000006" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZcJ_mIMhYMwHMSelU_jI-12" value="createPasien(data)" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="ZcJ_mIMhYMwHMSelU_jI-4">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="420" y="418" as="sourcePoint" />
+            <mxPoint x="560.9999999999999" y="418" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZcJ_mIMhYMwHMSelU_jI-13" value="return validationError(errors)" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" edge="1" parent="1" source="ZcJ_mIMhYMwHMSelU_jI-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="561" y="473" as="sourcePoint" />
+            <mxPoint x="420" y="473" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZcJ_mIMhYMwHMSelU_jI-14" value="displayError(errors)" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="410" y="473" as="sourcePoint" />
+            <mxPoint x="270" y="473" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZcJ_mIMhYMwHMSelU_jI-15" value="Pasien Model" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="686" y="310" width="100" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="ZcJ_mIMhYMwHMSelU_jI-16" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="ZcJ_mIMhYMwHMSelU_jI-15">
+          <mxGeometry x="45" y="179" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZcJ_mIMhYMwHMSelU_jI-17" value="save(data)" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1" source="ZcJ_mIMhYMwHMSelU_jI-4" target="ZcJ_mIMhYMwHMSelU_jI-16">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="626" y="499" as="sourcePoint" />
+            <mxPoint x="706" y="499" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZcJ_mIMhYMwHMSelU_jI-18" value="return successMessage()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="ZcJ_mIMhYMwHMSelU_jI-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="519" as="sourcePoint" />
+            <mxPoint x="420" y="518.97" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZcJ_mIMhYMwHMSelU_jI-19" value="displaySuccess(message)" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="410" y="526" as="sourcePoint" />
+            <mxPoint x="270" y="526" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="XAfRUrFoBgXsmGoKleDQ" name="edit-kuisioner">
+    <mxGraphModel dx="872" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
